@@ -38,6 +38,12 @@
       "type": "shaderpack"
     },
     {
+      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/RqsNKKLK/controlify-3.0.1%2Blts%2B1.21.1-neoforge.jar",
+      "name": "controlify",
+      "version": "RqsNKKLK",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/cl223EMc/versions/Sduz0AWP/cristellib-neoforge-1.21.1-3.1.7.jar",
       "name": "cristel-lib",
       "version": "Sduz0AWP",
@@ -200,6 +206,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "name": "yacl",
+      "version": "7TVdVtxF",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "name": "yungs-api",
       "version": "2prKITKh",
@@ -258,18 +270,6 @@
       "name": "yungs-better-witch-huts",
       "version": "AvedwcIe",
       "type": "mod"
-    }
-  ],
-  "modify": [
-    {
-      "type": "remove",
-      "pattern": "^mods/obsessed-.*\\.jar$",
-      "path": "."
-    },
-    {
-      "type": "remove",
-      "pattern": "^mods/the-broken-script-.*\\.jar$",
-      "path": "."
     }
   ]
 }
